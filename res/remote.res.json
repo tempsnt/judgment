@@ -1,0 +1,15 @@
+{
+	"groups": [
+		{
+			"keys": "table",
+			"name": "mains"
+		}
+	],
+	"resources": [
+		{
+			"url": "readme.txt",
+			"type": "text",
+			"name": "table"
+		}
+	]
+}
