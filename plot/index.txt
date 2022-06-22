@@ -1,0 +1,36 @@
+{
+    "Version": "1.00",
+      "BaseURl": "",
+        "ADuser": "",
+          "ADpass": "",
+            "Notes": "ver 1.00",
+              "StoryList": [
+                {
+                  "id": "10000",
+                  "title": "生日party [新手教学].",
+                  "notes": "快乐的同学聚会,礼品蛋糕意外被偷吃,是谁的恶作剧? ....",
+                  "source": "a",
+                  "end": 0,
+                  "hard": 0,
+                  "sort": 1
+                },
+                {
+                  "id": "10001",
+                  "title": "森林度假小屋",
+                  "notes": "待发布 敬请期待",
+                  "source": "a",
+                  "end": 0,
+                  "hard": 0,
+                  "sort": 1
+                },
+                {
+                  "id": "10002",
+                  "title": "哥哥的比赛",
+                  "notes": "待发布 敬请期待",
+                  "source": "a",
+                  "end": 0,
+                  "hard": 0,
+                  "sort": 1
+                }
+              ]
+  } 
