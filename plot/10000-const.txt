@@ -1,0 +1,42 @@
+##/----------设置部分-常量--人物---物品-----
+##/--背景部分--
+##const 桌子|https://i.postimg.cc/hz5Lk8FH/s.png
+##const 书房|https://i.postimg.cc/RW5RCT3m/s.png
+##const 客厅|https://i.postimg.cc/XXqxsqMR/s.png
+##const 大门|https://i.postimg.cc/zbt7JZh2/s.png
+
+##const 礼物3|https://i.postimg.cc/vc6hdKZX/pen.png
+##const 礼物2|https://i.postimg.cc/rdgCJXfy/gift2.png
+##const 礼物1|https://i.postimg.cc/JsNQsBJk/gift1.png
+##const 礼物0|https://i.postimg.cc/5HfSLNqk/gift0.png
+##const 合影|https://i.postimg.cc/tnn3p1p7/photo1.png
+
+##/--人物立绘部分--
+##const 小云[开心]|yun-fun*https://cdn.jsdelivr.net/gh/tempsnt/judgment/yun-fun.png
+##const 小云[眨眼]|yun-joy*https://cdn.jsdelivr.net/gh/tempsnt/judgment/yun-joy.png
+##const 小云[惊讶]|yun-surprise*https://cdn.jsdelivr.net/gh/tempsnt/judgment/yun-surprise.png
+##const 小云[默认]|yun-neutal*https://cdn.jsdelivr.net/gh/tempsnt/judgment/yun-neutal.png
+##const 小囡[惊讶]|nan-surprise*https://cdn.jsdelivr.net/gh/tempsnt/judgment/nan-surprise.png
+##const 小囡[悲伤]|nan-sorrow*https://cdn.jsdelivr.net/gh/tempsnt/judgment/nan-sorrow.png
+##const 小囡[默认]|nan-neutral*https://cdn.jsdelivr.net/gh/tempsnt/judgment/nan-neutral.png
+##const 小囡[开心]|nan-joy*https://cdn.jsdelivr.net/gh/tempsnt/judgment/nan-joy.png
+##const 小囡[微笑]|nan-fun*https://cdn.jsdelivr.net/gh/tempsnt/judgment/nan-fun.png
+##const 小囡[生气]|nan-angry*https://cdn.jsdelivr.net/gh/tempsnt/judgment/nan-angry.png
+##const 小明[惊讶]|ming-surprise*https://cdn.jsdelivr.net/gh/tempsnt/judgment/ming-surprise.png
+##const 小明[悲伤]|ming-sorrow*https://cdn.jsdelivr.net/gh/tempsnt/judgment/ming-sorrow.png
+##const 小明[默认]|ming-neutal*https://cdn.jsdelivr.net/gh/tempsnt/judgment/ming-neutal.png
+##const 小明[开心]|ming-joy*https://cdn.jsdelivr.net/gh/tempsnt/judgment/ming-joy.png
+##const 小明[微笑]|ming-fun*https://cdn.jsdelivr.net/gh/tempsnt/judgment/ming-fun.png
+##const 小明[生气]|ming-angry*https://cdn.jsdelivr.net/gh/tempsnt/judgment/ming-angry.png
+##const 小兰[惊讶]|lan-surprise*https://cdn.jsdelivr.net/gh/tempsnt/judgment/lan-surprise.png
+##const 小兰[悲伤]|lan-sorrow*https://cdn.jsdelivr.net/gh/tempsnt/judgment/lan-sorrow.png
+##const 小兰[默认]|lan-neutral*https://cdn.jsdelivr.net/gh/tempsnt/judgment/lan-neutral.png
+##const 小兰[开心]|lan-joy*https://cdn.jsdelivr.net/gh/tempsnt/judgment/lan-joy.png
+##const 小兰[微笑]|lan-fun*https://cdn.jsdelivr.net/gh/tempsnt/judgment/lan-fun.png
+##const 小兰[生气]|lan-angry*https://cdn.jsdelivr.net/gh/tempsnt/judgment/lan-angry.png
+##const 佳林[惊讶]|jialin-surprise*https://cdn.jsdelivr.net/gh/tempsnt/judgment/jialin-surprise.png
+##const 佳林[悲伤]|jialin-sorrow*https://cdn.jsdelivr.net/gh/tempsnt/judgment/jialin-sorrow.png
+##const 佳林[默认]|jailin-neutral*https://cdn.jsdelivr.net/gh/tempsnt/judgment/jailin-neutral.png
+##const 佳林[开心]|jialin-joy*https://cdn.jsdelivr.net/gh/tempsnt/judgment/jialin-joy.png
+##const 佳林[微笑]|jialin-fun*https://cdn.jsdelivr.net/gh/tempsnt/judgment/jialin-fun.png
+##const 佳林[生气]|jialin-angry*https://cdn.jsdelivr.net/gh/tempsnt/judgment/jialin-angry.png
